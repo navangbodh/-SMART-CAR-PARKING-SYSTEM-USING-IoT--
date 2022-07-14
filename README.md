@@ -1,0 +1,2 @@
+# -SMART-CAR-PARKING-SYSTEM-USING-IoT--
+ The main aim of this project is reduces the risk of finding the parking slots in any parking area.   It eliminates the unnecessary travelling of vehicles across the filled parking slots in a city.   New ideas implemented using audrino , coding in C++ and cayenne platform  which provides a user friendly platform for IOT companies to connect sensors and view data intelligently. 
